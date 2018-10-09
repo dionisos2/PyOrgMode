@@ -24,7 +24,7 @@ sudo python setup.py install
 Import PyOrgMode
 
 #+BEGIN_SRC python
-from PyOrgMode import PyOrgMode
+import PyOrgMode
 #+END_SRC
 
 Create an Org data structure to hold the org-mode file.
@@ -110,4 +110,10 @@ CodeMonk (github)
 midraal (github)
 whacked (github)
 maxandersen (github)
+CodeMonk (github)
+midraal (github)
+Seamus Tuohy (@elationfoundation on github)
+clemente (github)
+kbarber2 (github)
+sp1ff (github)
 #+end_src
