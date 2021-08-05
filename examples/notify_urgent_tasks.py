@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 
 # A notification server as "notification-daemon" should be used and started
 import sys
